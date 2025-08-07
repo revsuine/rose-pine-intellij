@@ -262,7 +262,7 @@
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ebbcba" />
+        <option name="FOREGROUND" value="EBBCBA" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -272,12 +272,12 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="6e6a86" />
+        <option name="FOREGROUND" value="6E6A86" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="9ccfd8" />
+        <option name="FOREGROUND" value="9CCFD8" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
@@ -292,7 +292,7 @@
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="eb6f92" />
+        <option name="FOREGROUND" value="EB6F92g" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -308,7 +308,7 @@
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f6c177" />
+        <option name="FOREGROUND" value="F6C177" />
       </value>
     </option>
     <option name="CSS.COMMENT">
@@ -2060,53 +2060,53 @@
     </option>
     <option name="org.rust.ASSOC_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="9ccfd8" />
+        <option name="FOREGROUND" value="9CCFD8" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="org.rust.ASSOC_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="9ccfd8" />
+        <option name="FOREGROUND" value="9CCFD8" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="org.rust.ASSOC_TRAIT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="9ccfd8" />
+        <option name="FOREGROUND" value="9CCFD8" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="org.rust.CFG_DISABLED_CODE">
       <value>
-        <option name="FOREGROUND" value="6e6a86" />
+        <option name="FOREGROUND" value="6E6A86" />
       </value>
     </option>
     <option name="org.rust.CHAR">
       <value>
-        <option name="FOREGROUND" value="f6c177" />
+        <option name="FOREGROUND" value="F6C177" />
       </value>
     </option>
     <option name="org.rust.CONSTANT">
       <value>
-        <option name="FOREGROUND" value="eb6f92" />
+        <option name="FOREGROUND" value="EB6F92" />
       </value>
     </option>
     <option name="org.rust.ENUM">
       <value>
-        <option name="FOREGROUND" value="ebbcba" />
+        <option name="FOREGROUND" value="EBBCBA" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="org.rust.ENUM_VARIANT">
       <value>
-        <option name="FOREGROUND" value="9ccfd8" />
+        <option name="FOREGROUND" value="9CCFD8" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="org.rust.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="9ccfd8" />
+        <option name="FOREGROUND" value="9CCFD8" />
         <option name="FONT_TYPE" value="2" />
   </attributes>
 </scheme>
